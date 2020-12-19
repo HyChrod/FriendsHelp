@@ -39,12 +39,17 @@ It does not matter if you are OP or have all permissions on spigot! You will not
 | /party promote <Name> | Promotes a party member | Party.Commands.Promote |
 | /party demote <Name> | Demotes a partymember | Party.Commands.Demote |
 | /party leave | Leaves the party | Party.Commands.Leave |
-
+  
 Additional Permissions:
-- Friends.FriendLimit.Extended | Used to raise the limit of friends as defined in the config.yml
-- Friends.Status.ChangeLimit.ByPass | Players with this permission are able to change their status at anytime
-- Friends.Commands.Msg.FriendByPass | Allows a player to send private messages to someone without the need of beeing friends
-- Party.Commands.OpenGUI | Allows the usage of /party to open the PartyGUI ( If enabled in the party.yml )
+
+    Friends.FriendLimit.<Number>
+        Sets the maximum amount of Friends a player can have. If the players lacks the permission entirely, his limit is set to 0!
+    Friends.Status.ChangeLimit.ByPass
+        Players with this permission are able to change their status at anytime
+    Friends.Commands.Msg.FriendByPass
+        Allows a player to send private messages to someone without the need of beeing friends
+    Party.Commands.OpenGUI
+        Allows the usage of /party to open the PartyGUI ( If enabled in the party.yml )
 
 
 ## 2. Setup (FriendsPremium)
