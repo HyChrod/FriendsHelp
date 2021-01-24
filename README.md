@@ -40,6 +40,7 @@ It does not matter if you are OP or have all permissions on spigot! You will not
 | /party promote <Name> | Promotes a party member | Party.Commands.Promote |
 | /party demote <Name> | Demotes a partymember | Party.Commands.Demote |
 | /party leave | Leaves the party | Party.Commands.Leave |
+| /party join | Joins to the server your party is currently on | Party.Commands.Join |
   
 Additional Permissions:
 
