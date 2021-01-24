@@ -1,6 +1,6 @@
 # Friends Premium
 
-## 1. Commands and Permissions (Party Commands are only for FriendsPremium)
+## 1. Commands and Permissions
 
 When using BungeeCord, make sure you give the following permissions on BungeeCord!
 It does not matter if you are OP or have all permissions on spigot! You will not be able to perform those commands because they are handled trough the proxy and therefor you need these permissions there aswell!
