@@ -30,6 +30,7 @@ It does not matter if you are OP or have all permissions on spigot! You will not
 | /friends jumping | Toggle wether you want other players to jump to your location | Friends.Commands.Options.Jumping |
 | /friends offlinemode | Toggle wether you want to be shown as offline or online | Friends.Commands.Options.Offline |
 | /friends spychat | Enters or leaves the spychat | Friends.Commands.SpyChat |
+| /friends reload | Reloads the spigot-configs | Friends.Commands.Reload |
 ||||
 ||||
 | /party invite <Name> | Invites an player to your party | Party.Commands.Invite |
